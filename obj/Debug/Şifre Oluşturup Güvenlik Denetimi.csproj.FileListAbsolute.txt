@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\bin\Debug\Şifre Oluşturup Güvenlik Denetimi.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\bin\Debug\Şifre Oluşturup Güvenlik Denetimi.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\bin\Debug\Şifre Oluşturup Güvenlik Denetimi.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre Oluşturup Güvenlik Denetimi.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre_Oluşturup_Güvenlik_Denetimi.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre_Oluşturup_Güvenlik_Denetimi.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre Oluşturup Güvenlik Denetimi.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre Oluşturup Güvenlik Denetimi.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre Oluşturup Güvenlik Denetimi.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şifre Oluşturup Güvenlik Denetimi\Şifre Oluşturup Güvenlik Denetimi\obj\Debug\Şifre Oluşturup Güvenlik Denetimi.pdb
